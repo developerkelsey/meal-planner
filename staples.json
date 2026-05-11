@@ -1,0 +1,277 @@
+{
+  "_note": "Edit this file with your actual staple foods, brands, and favorite meals. The meal planner uses this to keep your weekly plans consistent with what you already buy and enjoy.",
+
+  "preferred_proteins": [
+    {
+      "name": "Chicken Breast",
+      "brand": "Perdue",
+      "notes": "Buy in bulk, freeze in portions",
+      "macros_per_100g": { "calories": 165, "protein_g": 31 }
+    },
+    {
+      "name": "Ground Turkey 93/7",
+      "brand": "Jennie-O",
+      "macros_per_100g": { "calories": 170, "protein_g": 22 }
+    },
+    {
+      "name": "Salmon Fillet",
+      "notes": "Fresh or frozen, Atlantic or sockeye",
+      "macros_per_100g": { "calories": 208, "protein_g": 20 }
+    },
+    {
+      "name": "Eggs",
+      "notes": "Large, cage-free",
+      "macros_per_egg": { "calories": 70, "protein_g": 6 }
+    },
+    {
+      "name": "Greek Yogurt 0%",
+      "brand": "Fage",
+      "macros_per_100g": { "calories": 57, "protein_g": 10 }
+    },
+    {
+      "name": "Cottage Cheese",
+      "brand": "Good Culture",
+      "notes": "2% milkfat",
+      "macros_per_100g": { "calories": 90, "protein_g": 11 }
+    },
+    {
+      "name": "Canned Tuna in Water",
+      "brand": "StarKist",
+      "macros_per_can_5oz": { "calories": 130, "protein_g": 28 }
+    },
+    {
+      "name": "Shrimp",
+      "notes": "Frozen, 31-40 count, tail-off, pre-cooked or raw",
+      "macros_per_100g": { "calories": 99, "protein_g": 24 }
+    },
+    {
+      "name": "Ground Beef 93/7",
+      "macros_per_100g": { "calories": 152, "protein_g": 21 }
+    },
+    {
+      "name": "Protein Powder",
+      "brand": "Optimum Nutrition Gold Standard Whey",
+      "flavor": "Double Rich Chocolate",
+      "macros_per_scoop": { "calories": 120, "protein_g": 24 }
+    }
+  ],
+
+  "preferred_carbs": [
+    {
+      "name": "White Rice",
+      "notes": "Long grain, jasmine",
+      "macros_per_100g_dry": { "calories": 365, "protein_g": 7 }
+    },
+    {
+      "name": "Sweet Potato",
+      "macros_per_100g": { "calories": 86, "protein_g": 2 }
+    },
+    {
+      "name": "Whole Wheat Pasta",
+      "brand": "Barilla",
+      "macros_per_100g_dry": { "calories": 352, "protein_g": 13 }
+    },
+    {
+      "name": "Brown Rice",
+      "macros_per_100g_dry": { "calories": 370, "protein_g": 8 }
+    },
+    {
+      "name": "Sourdough Bread",
+      "brand": "Dave's Killer Bread",
+      "macros_per_slice": { "calories": 120, "protein_g": 5 }
+    },
+    {
+      "name": "Quinoa",
+      "macros_per_100g_dry": { "calories": 368, "protein_g": 14 }
+    },
+    {
+      "name": "Corn Tortillas",
+      "notes": "Small, 6-inch",
+      "macros_per_tortilla": { "calories": 50, "protein_g": 1 }
+    }
+  ],
+
+  "preferred_vegetables": [
+    "Broccoli",
+    "Asparagus",
+    "Zucchini",
+    "Bell peppers (red, yellow, green)",
+    "Spinach",
+    "Kale",
+    "Brussels sprouts",
+    "Green beans",
+    "Cucumber",
+    "Cherry tomatoes",
+    "Romaine lettuce",
+    "Cabbage (green or purple)",
+    "Edamame (frozen)"
+  ],
+
+  "pantry_staples": {
+    "always_on_hand": [
+      "Olive oil",
+      "Avocado oil",
+      "Coconut oil",
+      "Salt",
+      "Black pepper",
+      "Garlic powder",
+      "Onion powder",
+      "Paprika",
+      "Cumin",
+      "Chili powder",
+      "Italian seasoning",
+      "Red pepper flakes",
+      "Soy sauce (low sodium)",
+      "Hot sauce (Cholula)",
+      "Apple cider vinegar",
+      "Chicken broth (low sodium)",
+      "Canned diced tomatoes",
+      "Tomato paste",
+      "Dijon mustard",
+      "Honey",
+      "Salsa"
+    ],
+    "fridge_staples": [
+      "Parmesan cheese",
+      "Butter",
+      "Lemons",
+      "Garlic (fresh)",
+      "Onions",
+      "Sriracha"
+    ]
+  },
+
+  "favorite_meals": [
+    {
+      "name": "Chicken and Rice Bowl",
+      "type": "lunch or dinner",
+      "prep_minutes": 25,
+      "calories_per_person": 620,
+      "protein_per_person_g": 55,
+      "notes": "Season chicken with garlic powder, paprika, salt. Serve over white rice with steamed broccoli. Simple and filling."
+    },
+    {
+      "name": "Turkey Taco Bowls",
+      "type": "dinner",
+      "prep_minutes": 25,
+      "calories_per_person": 680,
+      "protein_per_person_g": 52,
+      "notes": "Brown ground turkey with taco spices. Serve over rice with salsa, shredded cabbage, lime."
+    },
+    {
+      "name": "Baked Salmon with Asparagus",
+      "type": "dinner",
+      "prep_minutes": 25,
+      "calories_per_person": 480,
+      "protein_per_person_g": 42,
+      "notes": "Season salmon with lemon, olive oil, salt. Roast asparagus alongside. Often paired with rice."
+    },
+    {
+      "name": "Pasta with Turkey Meat Sauce",
+      "type": "dinner",
+      "prep_minutes": 30,
+      "calories_per_person": 720,
+      "protein_per_person_g": 52,
+      "notes": "Ground turkey, canned tomatoes, garlic, Italian seasoning over whole wheat pasta. Add parmesan."
+    },
+    {
+      "name": "Egg and Veggie Scramble",
+      "type": "lunch",
+      "prep_minutes": 15,
+      "calories_per_person": 420,
+      "protein_per_person_g": 32,
+      "notes": "4 eggs each with bell peppers, spinach, and whatever veggies are around. Add cottage cheese on the side for extra protein."
+    },
+    {
+      "name": "Shrimp Stir Fry",
+      "type": "dinner",
+      "prep_minutes": 20,
+      "calories_per_person": 520,
+      "protein_per_person_g": 48,
+      "notes": "Shrimp with broccoli, bell peppers, low-sodium soy sauce, garlic, ginger over white rice."
+    },
+    {
+      "name": "Greek Chicken Bowls",
+      "type": "lunch or dinner",
+      "prep_minutes": 30,
+      "calories_per_person": 580,
+      "protein_per_person_g": 50,
+      "notes": "Marinate chicken in lemon, olive oil, oregano, garlic. Serve over quinoa with cucumber, tomato, feta."
+    },
+    {
+      "name": "Tuna Salad Wrap",
+      "type": "lunch",
+      "prep_minutes": 10,
+      "calories_per_person": 450,
+      "protein_per_person_g": 42,
+      "notes": "StarKist tuna with Greek yogurt (instead of mayo), Dijon, celery. Serve on Dave's Killer Bread or in romaine cups."
+    },
+    {
+      "name": "Cottage Cheese Bowl",
+      "type": "lunch",
+      "prep_minutes": 5,
+      "calories_per_person": 380,
+      "protein_per_person_g": 38,
+      "notes": "Good Culture cottage cheese with cherry tomatoes, cucumber, everything bagel seasoning. Add hard-boiled eggs for more protein."
+    },
+    {
+      "name": "Ground Beef Stir Fry",
+      "type": "dinner",
+      "prep_minutes": 20,
+      "calories_per_person": 650,
+      "protein_per_person_g": 50,
+      "notes": "93/7 ground beef with zucchini, bell peppers, soy sauce, garlic over white rice."
+    },
+    {
+      "name": "Chicken Lettuce Wraps",
+      "type": "lunch",
+      "prep_minutes": 20,
+      "calories_per_person": 420,
+      "protein_per_person_g": 45,
+      "notes": "Ground or diced chicken with water chestnuts, hoisin, soy sauce in romaine cups."
+    },
+    {
+      "name": "Sweet Potato and Turkey Hash",
+      "type": "lunch or dinner",
+      "prep_minutes": 25,
+      "calories_per_person": 540,
+      "protein_per_person_g": 42,
+      "notes": "Diced sweet potato, ground turkey, bell peppers, spinach, eggs cracked in at the end."
+    }
+  ],
+
+  "variety_ideas": [
+    {
+      "name": "Teriyaki Salmon Bowl",
+      "notes": "Salmon glazed with teriyaki sauce over brown rice with edamame and cucumber"
+    },
+    {
+      "name": "Turkey Stuffed Bell Peppers",
+      "notes": "Ground turkey, rice, tomato, spices stuffed in peppers and baked"
+    },
+    {
+      "name": "Chicken Fajita Bowls",
+      "notes": "Sliced chicken breast with fajita veggies over rice or in corn tortillas"
+    },
+    {
+      "name": "Baked Cod with Roasted Veggies",
+      "notes": "Light white fish with Brussels sprouts or green beans, easy weeknight"
+    },
+    {
+      "name": "Turkey Meatballs with Zucchini Noodles",
+      "notes": "Lighter pasta-style dish, zucchini noodles or mix with whole wheat pasta"
+    },
+    {
+      "name": "Egg Fried Rice",
+      "notes": "Leftover rice, eggs, peas, soy sauce, sesame oil — fast and satisfying"
+    },
+    {
+      "name": "Sheet Pan Chicken and Veggies",
+      "notes": "Chicken thighs or breast with any vegetables, toss in olive oil and roast everything together"
+    },
+    {
+      "name": "Shrimp Tacos",
+      "notes": "Seasoned shrimp in corn tortillas with cabbage slaw, lime, hot sauce"
+    }
+  ]
+}
