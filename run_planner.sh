@@ -5,6 +5,9 @@
 # 0 7 * * 1 /home/user/meal-planner/run_planner.sh >> /home/user/meal-planner/logs/planner.log 2>&1
 #
 # That runs every Monday at 7am.
+#
+# First-time setup: set your API key in the environment or export it here:
+#   export ANTHROPIC_API_KEY="sk-ant-..."
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR" || exit 1
@@ -17,5 +20,5 @@ if [ -z "$ANTHROPIC_API_KEY" ] && [ -f "$CLAUDE_SESSION_INGRESS_TOKEN_FILE" ]; t
 fi
 
 echo "=== Meal Planner Run: $(date) ==="
-python3 meal_planner.py
+npm run plan
 echo ""

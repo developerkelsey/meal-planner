@@ -1,98 +1,95 @@
 {
   "week_of": "2026-05-11",
-  "variety_note": "Two new dishes this week: Teriyaki Salmon Bowls midweek and Shrimp Tacos on Friday to shake up the usual rotation.",
+  "variety_note": "Two new variety meals this week: Teriyaki Salmon Bowls midweek and Shrimp Tacos on Friday to break up the usual rotation.",
   "days": [
     {
       "day": "Monday",
       "lunch": {
         "name": "Tuna Salad on Sourdough",
-        "description": "StarKist tuna mixed with Greek yogurt, Dijon, and lemon on toasted Dave's Killer sourdough with cucumber slices.",
-        "protein_g_per_person": 44,
-        "calories_per_person": 480,
+        "description": "StarKist tuna mixed with Greek yogurt, Dijon, and celery on toasted Dave's Killer sourdough with cucumber slices.",
+        "protein_g_per_person": 45,
+        "calories_per_person": 500,
         "prep_time_minutes": 10,
         "ingredients": [
-          "2 cans StarKist tuna in water",
-          "1/2 cup Fage 0% Greek yogurt",
+          "2 cans StarKist tuna (5oz each)",
+          "1/4 cup Fage 0% Greek yogurt",
           "4 slices Dave's Killer sourdough",
           "1 cucumber",
-          "Dijon mustard",
-          "lemon"
+          "2 celery stalks"
         ]
       },
       "dinner": {
         "name": "Chicken and Rice Bowl with Broccoli",
-        "description": "Garlic-paprika seared chicken breast over jasmine rice with steamed broccoli and a drizzle of Cholula.",
-        "protein_g_per_person": 58,
-        "calories_per_person": 640,
+        "description": "Garlic-paprika seasoned chicken breast over jasmine rice with steamed broccoli and a drizzle of olive oil.",
+        "protein_g_per_person": 72,
+        "calories_per_person": 740,
         "prep_time_minutes": 25,
         "ingredients": [
-          "1 lb chicken breast",
-          "1 cup jasmine rice (dry)",
-          "1 large head broccoli",
-          "garlic powder",
-          "paprika"
+          "1.25 lb chicken breast",
+          "1 cup dry jasmine rice",
+          "1 large head broccoli"
         ]
       }
     },
     {
       "day": "Tuesday",
       "lunch": {
-        "name": "Cottage Cheese Veggie Bowl",
-        "description": "Good Culture cottage cheese with cherry tomatoes, cucumber, and hard-boiled eggs, finished with everything bagel seasoning.",
+        "name": "Egg and Veggie Scramble with Cottage Cheese",
+        "description": "Fluffy scrambled eggs with bell peppers and spinach, served with a side of Good Culture cottage cheese.",
         "protein_g_per_person": 42,
-        "calories_per_person": 440,
-        "prep_time_minutes": 10,
+        "calories_per_person": 520,
+        "prep_time_minutes": 15,
         "ingredients": [
-          "1.5 cups Good Culture 2% cottage cheese",
-          "1 pint cherry tomatoes",
-          "1 cucumber",
-          "4 eggs",
-          "everything bagel seasoning"
+          "8 large eggs",
+          "1 red bell pepper",
+          "2 cups baby spinach",
+          "1 cup Good Culture 2% cottage cheese"
         ]
       },
       "dinner": {
         "name": "Turkey Taco Bowls",
-        "description": "Seasoned ground turkey over rice with shredded cabbage, salsa, and lime.",
-        "protein_g_per_person": 54,
-        "calories_per_person": 680,
+        "description": "Spiced ground turkey over rice with salsa, shredded purple cabbage, and lime.",
+        "protein_g_per_person": 55,
+        "calories_per_person": 720,
         "prep_time_minutes": 25,
         "ingredients": [
-          "1 lb Jennie-O ground turkey 93/7",
-          "1 cup jasmine rice (dry)",
-          "1/2 head green cabbage",
-          "2 limes",
-          "taco seasoning (cumin, chili powder, paprika)"
+          "1.25 lb Jennie-O 93/7 ground turkey",
+          "1 cup dry jasmine rice",
+          "1/2 head purple cabbage",
+          "1 cup salsa",
+          "2 limes"
         ]
       }
     },
     {
       "day": "Wednesday",
       "lunch": {
-        "name": "Egg and Veggie Scramble",
-        "description": "Fluffy scramble with bell pepper and spinach, with cottage cheese on the side for an extra protein boost.",
-        "protein_g_per_person": 38,
-        "calories_per_person": 460,
-        "prep_time_minutes": 15,
+        "name": "Cottage Cheese Power Bowl",
+        "description": "Good Culture cottage cheese topped with cherry tomatoes, cucumber, and everything bagel seasoning, plus two hard-boiled eggs each.",
+        "protein_g_per_person": 45,
+        "calories_per_person": 480,
+        "prep_time_minutes": 10,
         "ingredients": [
-          "8 eggs",
-          "1 red bell pepper",
-          "2 cups baby spinach",
-          "1/2 cup Good Culture cottage cheese"
+          "1.5 cups Good Culture 2% cottage cheese",
+          "1 pint cherry tomatoes",
+          "1 cucumber",
+          "4 large eggs",
+          "Everything bagel seasoning"
         ]
       },
       "dinner": {
         "name": "Teriyaki Salmon Bowls",
-        "description": "Glazed salmon over brown rice with edamame and cucumber \u2014 bright, savory, and new this week.",
+        "description": "Teriyaki-glazed salmon over brown rice with edamame and crisp cucumber — a fresh midweek change-up.",
         "protein_g_per_person": 48,
         "calories_per_person": 720,
         "prep_time_minutes": 25,
         "ingredients": [
-          "2 salmon fillets (6 oz each)",
-          "1 cup brown rice (dry)",
-          "1 cup frozen shelled edamame",
+          "1.25 lb salmon fillet",
+          "1 cup dry brown rice",
+          "1.5 cups frozen edamame (shelled)",
           "1 cucumber",
-          "1/4 cup teriyaki sauce",
-          "sesame seeds (optional)"
+          "1/3 cup teriyaki sauce",
+          "1 tbsp sesame seeds"
         ]
       }
     },
@@ -100,62 +97,59 @@
       "day": "Thursday",
       "lunch": {
         "name": "Chicken Lettuce Wraps",
-        "description": "Diced chicken in a savory soy-hoisin sauce, scooped into crisp romaine cups.",
+        "description": "Diced chicken sautéed with hoisin, soy, and garlic, scooped into crisp romaine cups.",
         "protein_g_per_person": 46,
         "calories_per_person": 440,
         "prep_time_minutes": 20,
         "ingredients": [
-          "12 oz chicken breast",
+          "3/4 lb chicken breast",
           "1 head romaine lettuce",
-          "1 small can water chestnuts",
+          "1 can water chestnuts (8oz)",
           "3 tbsp hoisin sauce",
-          "soy sauce"
+          "2 green onions"
         ]
       },
       "dinner": {
         "name": "Pasta with Turkey Meat Sauce",
-        "description": "Hearty turkey ragu over whole wheat pasta, finished with parmesan and red pepper flakes.",
-        "protein_g_per_person": 54,
-        "calories_per_person": 740,
+        "description": "Hearty ground turkey simmered with garlic, tomatoes, and Italian herbs over whole wheat pasta, topped with parmesan.",
+        "protein_g_per_person": 58,
+        "calories_per_person": 760,
         "prep_time_minutes": 30,
         "ingredients": [
-          "1 lb Jennie-O ground turkey 93/7",
+          "1.25 lb Jennie-O 93/7 ground turkey",
           "8 oz Barilla whole wheat pasta",
-          "1 can diced tomatoes",
-          "2 tbsp tomato paste",
-          "Italian seasoning"
+          "1 can diced tomatoes (28oz)",
+          "2 tbsp tomato paste"
         ]
       }
     },
     {
       "day": "Friday",
       "lunch": {
-        "name": "Greek Yogurt Tuna Lettuce Cups",
-        "description": "Light tuna salad scooped into romaine cups with a side of cherry tomatoes.",
+        "name": "Tuna Salad Romaine Cups",
+        "description": "Leftover-style tuna salad with Greek yogurt and Dijon piled into romaine boats with cherry tomatoes.",
         "protein_g_per_person": 42,
-        "calories_per_person": 380,
+        "calories_per_person": 420,
         "prep_time_minutes": 10,
         "ingredients": [
-          "2 cans StarKist tuna in water",
+          "2 cans StarKist tuna (5oz each)",
           "1/4 cup Fage 0% Greek yogurt",
           "1 head romaine lettuce",
-          "remaining cherry tomatoes",
-          "Dijon mustard"
+          "1 cup cherry tomatoes"
         ]
       },
       "dinner": {
         "name": "Shrimp Tacos with Cabbage Slaw",
-        "description": "Chili-lime shrimp in warm corn tortillas topped with crunchy cabbage slaw and Cholula.",
-        "protein_g_per_person": 50,
-        "calories_per_person": 680,
+        "description": "Chili-lime shrimp in warm corn tortillas with crunchy cabbage slaw, hot sauce, and lime — fun Friday night plate.",
+        "protein_g_per_person": 52,
+        "calories_per_person": 700,
         "prep_time_minutes": 20,
         "ingredients": [
-          "1.25 lbs shrimp (peeled, deveined)",
+          "1.25 lb raw shrimp (31-40 ct, peeled)",
           "8 corn tortillas",
-          "1/2 head green cabbage (remaining)",
+          "1/2 head green cabbage",
           "2 limes",
-          "cumin",
-          "chili powder"
+          "1 avocado"
         ]
       }
     },
@@ -163,62 +157,59 @@
       "day": "Saturday",
       "lunch": {
         "name": "Sweet Potato and Turkey Hash",
-        "description": "Diced sweet potato browned with ground turkey, bell pepper, and spinach, topped with a runny egg.",
-        "protein_g_per_person": 44,
+        "description": "Diced sweet potato browned with ground turkey, bell peppers, and spinach, finished with eggs cracked on top.",
+        "protein_g_per_person": 45,
         "calories_per_person": 560,
         "prep_time_minutes": 25,
         "ingredients": [
-          "12 oz Jennie-O ground turkey 93/7",
+          "3/4 lb Jennie-O 93/7 ground turkey",
           "2 medium sweet potatoes",
-          "1 bell pepper",
-          "2 cups spinach",
-          "4 eggs"
+          "1 yellow bell pepper",
+          "2 cups baby spinach",
+          "4 large eggs"
         ]
       },
       "dinner": {
         "name": "Ground Beef Stir Fry",
-        "description": "93/7 beef sizzled with zucchini and bell pepper in garlicky soy sauce over jasmine rice.",
+        "description": "93/7 ground beef seared with zucchini and bell peppers in garlic-soy sauce over jasmine rice.",
         "protein_g_per_person": 52,
-        "calories_per_person": 660,
+        "calories_per_person": 700,
         "prep_time_minutes": 20,
         "ingredients": [
-          "1 lb ground beef 93/7",
+          "1.25 lb 93/7 ground beef",
           "2 zucchini",
-          "1 bell pepper",
-          "1 cup jasmine rice (dry)",
-          "soy sauce",
-          "fresh garlic"
+          "1 green bell pepper",
+          "1 cup dry jasmine rice",
+          "Fresh ginger (1 inch)"
         ]
       }
     },
     {
       "day": "Sunday",
       "lunch": {
-        "name": "Greek Chicken Quinoa Bowls",
-        "description": "Lemon-oregano chicken over quinoa with cucumber, tomato, and a sprinkle of feta.",
-        "protein_g_per_person": 50,
-        "calories_per_person": 580,
-        "prep_time_minutes": 30,
+        "name": "Greek Yogurt Chicken Bowl",
+        "description": "Quick chicken-quinoa bowl with cucumber, cherry tomatoes, and a lemony Greek yogurt drizzle.",
+        "protein_g_per_person": 48,
+        "calories_per_person": 560,
+        "prep_time_minutes": 25,
         "ingredients": [
-          "12 oz chicken breast",
-          "3/4 cup quinoa (dry)",
+          "3/4 lb chicken breast",
+          "1/2 cup dry quinoa",
           "1 cucumber",
-          "remaining cherry tomatoes",
-          "1/2 cup feta cheese",
-          "dried oregano",
-          "lemon"
+          "1 cup cherry tomatoes",
+          "1/2 cup Fage 0% Greek yogurt"
         ]
       },
       "dinner": {
-        "name": "Baked Salmon with Asparagus",
-        "description": "Lemon-olive oil salmon roasted with asparagus, served alongside leftover rice or quinoa.",
-        "protein_g_per_person": 44,
-        "calories_per_person": 520,
-        "prep_time_minutes": 25,
+        "name": "Sheet Pan Chicken and Veggies",
+        "description": "Easy roasted chicken breast with Brussels sprouts and green beans tossed in olive oil and Italian seasoning.",
+        "protein_g_per_person": 72,
+        "calories_per_person": 700,
+        "prep_time_minutes": 30,
         "ingredients": [
-          "2 salmon fillets (6 oz each)",
-          "1 bunch asparagus",
-          "lemon"
+          "1.25 lb chicken breast",
+          "1 lb Brussels sprouts",
+          "12 oz green beans"
         ]
       }
     }
@@ -228,62 +219,67 @@
       "section": "Produce",
       "items": [
         "1 large head broccoli",
-        "1 head green cabbage",
+        "1 head purple cabbage",
+        "1/2 head green cabbage (or buy 1 small head)",
         "3 cucumbers",
         "2 pints cherry tomatoes",
-        "3 red bell peppers",
-        "1 green or yellow bell pepper",
+        "3 heads romaine lettuce",
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 green bell pepper",
         "4 cups baby spinach",
-        "2 heads romaine lettuce",
         "2 zucchini",
+        "1 lb Brussels sprouts",
+        "12 oz green beans",
         "2 medium sweet potatoes",
-        "1 bunch asparagus",
-        "4 lemons",
-        "4 limes"
+        "1 bunch green onions",
+        "1 avocado",
+        "4 limes",
+        "1 small piece fresh ginger"
       ]
     },
     {
       "section": "Meat & Fish",
       "items": [
-        "2.5 lbs Perdue chicken breast",
-        "2.25 lbs Jennie-O ground turkey 93/7",
-        "1 lb ground beef 93/7",
-        "4 salmon fillets (6 oz each)"
+        "3.25 lb Perdue chicken breast",
+        "3.25 lb Jennie-O 93/7 ground turkey",
+        "1.25 lb 93/7 ground beef",
+        "1.25 lb salmon fillet"
       ]
     },
     {
       "section": "Dairy & Eggs",
       "items": [
-        "18 large cage-free eggs",
-        "1 large tub Fage 0% Greek yogurt (32 oz)",
-        "2 tubs Good Culture 2% cottage cheese (16 oz each)",
-        "1/2 cup feta cheese"
+        "20 large cage-free eggs",
+        "1 large tub Fage 0% Greek yogurt (24 oz)",
+        "2 containers Good Culture 2% cottage cheese (16 oz each)"
       ]
     },
     {
       "section": "Pantry",
       "items": [
-        "4 cans StarKist tuna in water",
-        "1 small can water chestnuts",
-        "1 can diced tomatoes",
-        "1 bottle teriyaki sauce",
-        "1 small jar hoisin sauce",
-        "1 loaf Dave's Killer sourdough bread",
+        "2 cans StarKist tuna in water (5 oz each)",
+        "1 cup dry quinoa (small bag)",
+        "1 cup dry brown rice (small bag)",
+        "3 cups dry jasmine rice",
         "8 oz Barilla whole wheat pasta",
-        "2 lb bag jasmine rice",
-        "1 lb bag brown rice",
-        "1 small bag quinoa",
-        "1 pack corn tortillas (8+)",
+        "1 loaf Dave's Killer sourdough bread",
+        "1 package corn tortillas (6-inch)",
+        "1 can diced tomatoes (28 oz)",
+        "1 can water chestnuts (8 oz)",
+        "1 bottle teriyaki sauce",
+        "1 jar hoisin sauce",
+        "1 jar salsa",
         "Everything bagel seasoning",
-        "Dried oregano",
-        "Sesame seeds (optional)"
+        "Sesame seeds",
+        "Dried oregano"
       ]
     },
     {
       "section": "Frozen",
       "items": [
-        "1 lb frozen shrimp (31-40 count, peeled)",
-        "1 bag frozen shelled edamame"
+        "1.25 lb raw shrimp (31-40 ct, peeled, tail-off)",
+        "1 bag shelled edamame (12 oz)"
       ]
     }
   ]
